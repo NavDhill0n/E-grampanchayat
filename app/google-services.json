@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447631895466",
+    "project_id": "grampanchayat-9fe94",
+    "storage_bucket": "grampanchayat-9fe94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447631895466:android:6fbcee0a08292b3e9959d3",
+        "android_client_info": {
+          "package_name": "com.example.e_grampanchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447631895466-et6t2j2ih9v72hnfnb3c8psqt7k48p2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGowq5vSwLvTh059IHCa7zt_dpq31z3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447631895466-et6t2j2ih9v72hnfnb3c8psqt7k48p2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Upcoming Project/Services" />
+        <item
+            android:id="@+id/nav_create_news"
+            android:icon="@drawable/baseline_newspaper_24"
+            android:title="Create News" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/baseline_account_circle_24"
+            android:title="View Your Profile " />
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@drawable/baseline_manage_accounts_24"
+            android:title="Edit Your Profile " />
+        <item
+            android:id="@+id/nav_file_complaint"
+            android:icon="@drawable/baseline_error_24"
+            android:title="File Complaints" />
+        <item
+            android:id="@+id/nav_view_your_complaint"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="View Your Complaints " />
+        <item
+            android:id="@+id/nav_pending_complaint"
+        android:icon="@drawable/baseline_pending_actions_24"
+        android:title="Pending Complaints " />
+        <item
+            android:id="@+id/nav_view_all_complaint_resolved"
+            android:icon="@drawable/baseline_fact_check_24"
+            android:title="Resolved Complaints " />
+        <item
+            android:id="@+id/nav_view_all_complaint_rejected"
+            android:icon="@drawable/baseline_speaker_notes_off_24"
+            android:title="Rejected Complaints " />
+
+    </group>
+</menu>
